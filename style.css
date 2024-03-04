@@ -21,3 +21,17 @@ nav ul{
      p{
          color: #555;
      }
+     button{
+        color: white;
+        background-color:black;  
+    padding: 20px;   
+        
+        
+     }
+     #arrow{
+        width: 25px;
+        color: red;
+    }
+     #arrow2{
+        width: 20px;
+     }
